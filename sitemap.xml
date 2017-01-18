@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://smileart.in.ua/projects/slowtail/</loc>
+    <lastmod>2017-01-18T20:51:16+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://smileart.in.ua/projects/pwsqr/</loc>
+    <lastmod>2017-01-18T14:37:25+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://smileart.in.ua/post/welcome/</loc>
+    <lastmod>2017-01-18T14:37:25+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://smileart.in.ua/post/</loc>
+    <lastmod>2017-01-18T14:37:25+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://smileart.in.ua/projects/</loc>
+    <lastmod>2017-01-18T20:51:16+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://smileart.in.ua/</loc>
+    <lastmod>2017-01-18T20:51:16+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
