@@ -17,6 +17,46 @@
   </url>
   
   <url>
+    <loc>http://smileart.in.ua/post/munchkin_ru/</loc>
+    <lastmod>2015-04-12T22:55:50+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://smileart.in.ua/categories/board-games/</loc>
+    <lastmod>2015-04-12T22:55:50+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://smileart.in.ua/tags/boardgames/</loc>
+    <lastmod>2015-04-12T22:55:50+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://smileart.in.ua/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://smileart.in.ua/tags/cheatsheet/</loc>
+    <lastmod>2015-04-12T22:55:50+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://smileart.in.ua/tags/hobby/</loc>
+    <lastmod>2015-04-12T22:55:50+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://smileart.in.ua/categories/hobby/</loc>
+    <lastmod>2015-04-12T22:55:50+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://smileart.in.ua/post/</loc>
     <lastmod>2017-01-18T14:37:25+02:00</lastmod>
     <priority>0</priority>
@@ -31,6 +71,11 @@
   <url>
     <loc>http://smileart.in.ua/</loc>
     <lastmod>2017-01-18T20:51:16+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://smileart.in.ua/tags/</loc>
     <priority>0</priority>
   </url>
   
