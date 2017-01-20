@@ -6,8 +6,42 @@
     <description>Recent content in Projects on Smile @rT&#39;s personal blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-ru</language>
-    <lastBuildDate>Thu, 19 Jan 2017 14:36:00 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 20 Jan 2017 12:21:48 +0200</lastBuildDate>
     <atom:link href="http://smileart.in.ua/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>vim.min</title>
+      <link>http://smileart.in.ua/projects/vim_min/</link>
+      <pubDate>Fri, 20 Jan 2017 12:21:48 +0200</pubDate>
+      
+      <guid>http://smileart.in.ua/projects/vim_min/</guid>
+      <description>&lt;script src=&#34;//gist.github.com/smileart/6cf5de61d5f393d26fa0.js&#34;&gt;&lt;/script&gt;
+
+&lt;p&gt;Just execute this &lt;code&gt;source &amp;lt;(curl -Ls http://bit.ly/vim-min)&lt;/code&gt; on any bare or unfamiliar server, and Bob&amp;rsquo;s your uncle – an opinionated minimalistic vim setup! [&lt;a href=&#34;https://gist.github.com/smileart/6cf5de61d5f393d26fa0&#34;&gt;link&lt;/a&gt;]&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CLI Ruby Regex Tester</title>
+      <link>http://smileart.in.ua/projects/cli_ruby_regex/</link>
+      <pubDate>Fri, 20 Jan 2017 12:10:54 +0200</pubDate>
+      
+      <guid>http://smileart.in.ua/projects/cli_ruby_regex/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/it5GXzc6wZ0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+
+&lt;script src=&#34;//gist.github.com/smileart/687bb8e4de16a55e7d11caaa22d149c2.js?file=README.md&#34;&gt;&lt;/script&gt;
+
+&lt;script src=&#34;//gist.github.com/smileart/687bb8e4de16a55e7d11caaa22d149c2.js?file=regex.sh&#34;&gt;&lt;/script&gt;
+
+&lt;script src=&#34;//gist.github.com/smileart/687bb8e4de16a55e7d11caaa22d149c2.js?file=regex.txt&#34;&gt;&lt;/script&gt;
+
+&lt;p&gt;’Interactive’ / offline / CLI / Ruby Regexp tester as an alternative to &lt;a href=&#34;http://rubular.com&#34;&gt;rubular.com&lt;/a&gt; [&lt;a href=&#34;https://gist.github.com/smileart/687bb8e4de16a55e7d11caaa22d149c2&#34;&gt;link&lt;/a&gt;]&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>OMG (my .files)</title>
@@ -55,6 +89,16 @@ A little tool to slow the tail :) [&lt;a href=&#34;https://github.com/smileart/s
       <description>&lt;p&gt;&lt;div style=&#34;text-align:center&#34;&gt; &lt;img title=&#34;© Smile @rT&#34; src =&#34;/img/projects/british/british.gif&#34; /&gt; &lt;/div&gt;
 &lt;br /&gt;
 A tiny module which is supposed to help Brits to use Ruby with more comfort. [&lt;a href=&#34;https://github.com/smileart/british&#34;&gt;link&lt;/a&gt;]&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>BlazeCards 📇</title>
+      <link>http://smileart.in.ua/projects/blaze_cards/</link>
+      <pubDate>Wed, 18 Jan 2017 14:37:25 +0200</pubDate>
+      
+      <guid>http://smileart.in.ua/projects/blaze_cards/</guid>
+      <description>&lt;p&gt;A CLI tool which provides you an interface for translating words and generating flash cards decks to learn them with apps like &lt;a href=&#34;http://orangeorapple.com/Flashcards/&#34;&gt;FCD&lt;/a&gt; [&lt;a href=&#34;https://github.com/smileart/blaze_cards&#34;&gt;link&lt;/a&gt;]&lt;/p&gt;
 </description>
     </item>
     
