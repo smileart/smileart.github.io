@@ -47,6 +47,11 @@
   </url>
   
   <url>
+    <loc>http://smileart.in.ua/post/using_articles/</loc>
+    <lastmod>2016-01-21T17:50:43+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://smileart.in.ua/post/munchkin_ru/</loc>
     <lastmod>2015-04-12T22:55:50+02:00</lastmod>
   </url>
@@ -75,6 +80,36 @@
   </url>
   
   <url>
+    <loc>http://smileart.in.ua/tags/cheatsheets/</loc>
+    <lastmod>2016-01-21T17:50:43+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://smileart.in.ua/tags/english/</loc>
+    <lastmod>2016-01-21T17:50:43+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://smileart.in.ua/categories/english/</loc>
+    <lastmod>2016-01-21T17:50:43+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://smileart.in.ua/tags/grammar/</loc>
+    <lastmod>2016-01-21T17:50:43+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://smileart.in.ua/categories/grammar/</loc>
+    <lastmod>2016-01-21T17:50:43+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://smileart.in.ua/tags/hobby/</loc>
     <lastmod>2015-04-12T22:55:50+02:00</lastmod>
     <priority>0</priority>
@@ -83,6 +118,18 @@
   <url>
     <loc>http://smileart.in.ua/categories/hobby/</loc>
     <lastmod>2015-04-12T22:55:50+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://smileart.in.ua/tags/infographics/</loc>
+    <lastmod>2016-01-21T17:50:43+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://smileart.in.ua/tags/learning/</loc>
+    <lastmod>2016-01-21T17:50:43+02:00</lastmod>
     <priority>0</priority>
   </url>
   
