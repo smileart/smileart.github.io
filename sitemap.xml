@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://smileart.in.ua/projects/mac_say/</loc>
+    <lastmod>2017-01-31T19:13:48+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://smileart.in.ua/projects/vim_min/</loc>
     <lastmod>2017-01-20T12:21:48+02:00</lastmod>
   </url>
@@ -141,13 +146,13 @@
   
   <url>
     <loc>http://smileart.in.ua/projects/</loc>
-    <lastmod>2017-01-20T12:21:48+02:00</lastmod>
+    <lastmod>2017-01-31T19:13:48+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://smileart.in.ua/</loc>
-    <lastmod>2017-01-20T12:21:48+02:00</lastmod>
+    <lastmod>2017-01-31T19:13:48+02:00</lastmod>
     <priority>0</priority>
   </url>
   

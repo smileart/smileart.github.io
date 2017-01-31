@@ -6,8 +6,20 @@
     <description>Recent content in Projects on Smile @rT&#39;s personal blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-ru</language>
-    <lastBuildDate>Fri, 20 Jan 2017 12:21:48 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 31 Jan 2017 19:13:48 +0200</lastBuildDate>
     <atom:link href="http://smileart.in.ua/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>mac-say 💬</title>
+      <link>http://smileart.in.ua/projects/mac_say/</link>
+      <pubDate>Tue, 31 Jan 2017 19:13:48 +0200</pubDate>
+      
+      <guid>http://smileart.in.ua/projects/mac_say/</guid>
+      <description>&lt;p&gt;&lt;div style=&#34;text-align:center&#34;&gt; &lt;img title=&#34;© Smile @rT&#34; src =&#34;/img/projects/mac_say/mac_say.png&#34; /&gt; &lt;/div&gt;
+&lt;br /&gt;
+Ruby wrapper around the modern version of the macOS say command. Inspired by the @bratta&amp;rsquo;s &lt;a href=&#34;https://github.com/bratta/mactts&#34;&gt;mactts&lt;/a&gt; [&lt;a href=&#34;https://github.com/smileart/mac-say&#34;&gt;link&lt;/a&gt;]&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>vim.min</title>
