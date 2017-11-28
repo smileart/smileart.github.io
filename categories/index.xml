@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Smile @rT&#39;s personal blog</title>
+    <link>http://smileart.in.ua/categories/</link>
+    <description>Recent content in Categories on Smile @rT&#39;s personal blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru-ru</language>
+    <lastBuildDate>Sun, 12 Apr 2015 22:55:50 +0200</lastBuildDate>
+    
+	<atom:link href="http://smileart.in.ua/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Board Games</title>
+      <link>http://smileart.in.ua/categories/board-games/</link>
+      <pubDate>Sun, 12 Apr 2015 22:55:50 +0200</pubDate>
+      
+      <guid>http://smileart.in.ua/categories/board-games/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>English</title>
+      <link>http://smileart.in.ua/categories/english/</link>
+      <pubDate>Thu, 21 Jan 2016 17:50:43 +0200</pubDate>
+      
+      <guid>http://smileart.in.ua/categories/english/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Grammar</title>
+      <link>http://smileart.in.ua/categories/grammar/</link>
+      <pubDate>Thu, 21 Jan 2016 17:50:43 +0200</pubDate>
+      
+      <guid>http://smileart.in.ua/categories/grammar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hobby</title>
+      <link>http://smileart.in.ua/categories/hobby/</link>
+      <pubDate>Sun, 12 Apr 2015 22:55:50 +0200</pubDate>
+      
+      <guid>http://smileart.in.ua/categories/hobby/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
